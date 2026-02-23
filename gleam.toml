@@ -1,4 +1,4 @@
-name = "gleam_ai"
+name = "gai"
 version = "0.0.1"
 description = "The AI SDK for Gleam. Unified interface for LLM providers."
 licences = ["MIT"]
@@ -6,7 +6,7 @@ licences = ["MIT"]
 [repository]
 type = "github"
 user = "chtushar"
-repo = "gleam_ai"
+repo = "gai"
 
 [dependencies]
 gleam_stdlib = ">= 0.44.0 and < 2.0.0"
