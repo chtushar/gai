@@ -1,7 +1,7 @@
 # ai
 
-[![Package Version](https://img.shields.io/hexpm/v/ai)](https://hex.pm/packages/ai)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/ai/)
+[![Package Version](https://img.shields.io/hexpm/v/ai)](https://hex.pm/packages/gai)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gai/)
 
 ```sh
 gleam add ai@1
@@ -14,7 +14,7 @@ pub fn main() -> Nil {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/ai>.
+Further documentation can be found at <https://hexdocs.pm/gai>.
 
 ## Development
 
