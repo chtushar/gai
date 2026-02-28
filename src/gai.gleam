@@ -1,9 +1,7 @@
-/// The AI SDK for Gleam.
-///
-/// A unified, type-safe interface for working with LLM providers.
-/// Supports text generation, structured output, streaming, and tool calling.
-///
-/// Coming soon.
+import core/generate_text
+
 pub fn version() -> String {
   "0.0.1"
 }
+
+pub const generate_text = generate_text.generate_text
